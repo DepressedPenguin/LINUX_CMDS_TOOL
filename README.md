@@ -8,6 +8,7 @@
     <h1>Description of My LINUX_CMDS_TOOL</h1>
 #
     <h2>Overview</h2>
+    <img src="https://raw.githubusercontent.com/DepressedPenguin/LINUX_CMDS_TOOL/main/pre.png" alt="Preview Image">
     <p>
         My Python Tool is designed to assist developers who often forget specific commands or configurations. It provides a centralized repository where users can quickly search for and retrieve the commands they need.
     </p>
